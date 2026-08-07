@@ -1,4 +1,4 @@
-# Maths, Data Science, Machine Learning, AI Agents - (Focusing on Video games) Training
+# Maths, Data Science, Machine Learning, AI Agents -  Training
 
 (in folder notebooks)
 ## Structured in 4 PACKS each pack consisting of Blocks (one jupyter notebook per block).
